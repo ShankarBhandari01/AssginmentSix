@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AssginmentSix</string>
+    <string name="title_activity_dashboard">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Add Student</string>
+    <string name="title_notifications">AboutUs</string>
+</resources>
