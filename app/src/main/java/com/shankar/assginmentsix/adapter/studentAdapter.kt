@@ -45,7 +45,10 @@ class studentAdapter (
         holder.tvAddress.text= student.address
         holder.tvAge.text= student.age.toString()
         holder.gender.text= student.gender
-
+        holder.btnImage.setOnClickListener {
+           // lstStudent.drop(get)
+            
+        }
 
     }
 

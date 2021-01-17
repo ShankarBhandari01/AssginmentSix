@@ -43,6 +43,7 @@ class HomeFragment : Fragment() {
 
     private fun LoadAcotors(){
         lstStudent.add(student("Shankar Bhandari",21,"Kalopool","Male"))
-        lstStudent.add(student("Hari Bhandari",21,"Kalopool","Male"))
+        lstStudent.add(student("Hari Bhandari",23,"Sukedhara","Male"))
+        lstStudent.add(student("Ram Bhandari",20,"Chabahill","Male"))
     }
 }
